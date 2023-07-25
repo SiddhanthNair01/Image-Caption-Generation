@@ -1,1 +1,3 @@
 # Image-Caption-Generation
+
+Image Caption Generation has always been a study of great interest to the researchers in the Artificial Intelligence department. Being able to program a machine to accurately describe an image or an environment like an average human has major applications in the field of robotic vision, business  and  many  more.  This has been a challenging task in the field of artificial intelligence throughout the years. In This Repository, we see how to implement the Attention Mechanism for Caption Generation with Transformers using TensorFlow and encoder decoder architectures. We have also used the inceptionV3 model for extracting the features for the encoder decoder architecture. The entire captioner has been deployed on a web app made using streamlit.
